@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Dòng chữ gõ máy tự động (Đã mã hóa chuẩn ký tự) -->
+  <!-- Dòng chữ gõ máy tự động -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+Jiryu!+%F0%9F%91%8B;AI+%26+Computer+Vision+Enthusiast;i'm+studying%2C+but+the+stu+is+silent...;" alt="Typing SVG" />
 
   <!-- Dải Pixel Art -->
@@ -21,10 +21,14 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 🏆 Achievements & Activity
+<!-- Bộ cúp vinh danh tự động theo thành tích GitHub + Chuỗi ngày hoạt động -->
 <p align="center">
-  <img src="https://github-readme-stats.anuraghazra1.workers.dev/api?username=snizyboi0165&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.anuraghazra1.workers.dev/api/top-langs/?username=snizyboi0165&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=snizyboi0165&theme=tokyonight&no-frame=true&column=6&margin-w=10" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=snizyboi0165&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
