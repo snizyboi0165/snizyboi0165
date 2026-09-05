@@ -21,14 +21,14 @@
 
 ---
 
-### 🏆 Achievements & Activity
-<!-- Bộ cúp vinh danh tự động theo thành tích GitHub + Chuỗi ngày hoạt động -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=snizyboi0165&theme=tokyonight&no-frame=true&column=6&margin-w=10" alt="GitHub Trophies" />
-</p>
-
+### 🔥 Activity & Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=snizyboi0165&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<!-- Biểu đồ đóng góp dạng sóng hoạt họa, server hoạt động cực kỳ ổn định -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=snizyboi0165&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </p>
 
 ---
