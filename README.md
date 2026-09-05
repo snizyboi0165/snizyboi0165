@@ -12,7 +12,7 @@
 
 </div>
 
-### 🛠 Tech & Tools
+### Tech & Tools
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,pytorch,opencv,jupyter,html,css,git,vscode&perline=9" />
@@ -21,14 +21,14 @@
 
 ---
 
-### 🔥 Activity & Streak
+### Activity & Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=snizyboi0165&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🐍 Snake Eating Contributions
+### Snake Eating Contributions
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/snizyboi0165/snizyboi0165/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/snizyboi0165/snizyboi0165/output/github-snake.svg" />
