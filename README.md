@@ -26,11 +26,6 @@
   <img src="https://streak-stats.demolab.com/?user=snizyboi0165&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<!-- Thẻ thống kê tổng quan dùng server demolab không bị lỗi -->
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=snizyboi0165&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
 ---
 
 ### 🐍 Snake Eating Contributions
@@ -39,3 +34,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/snizyboi0165/snizyboi0165/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/snizyboi0165/snizyboi0165/output/github-snake.svg" />
 </picture>
+
+<!-- Lượt xem profile nhỏ gọn ở chân trang -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=snizyboi0165&label=Profile%20Views&color=70a5fd&style=flat" alt="Views" />
+</p>
