@@ -16,7 +16,10 @@
 <!-- 12 icon chia đều đúng 2 hàng x 6 cột, thẳng tắp không bị khuyết -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,cs,ts,nestjs,mysql,pytorch,opencv,js,nextjs,vscode,git&perline=6" />
+    <!-- Hàng 1: Languages & Frameworks (6 icon) -->
+    <img src="https://skillicons.dev/icons?i=python,java,cs,ts,pytorch,opencv&perline=6" /><br/>
+    <!-- Hàng 2: IDEs, Engines & Dev Tools (6 icon) -->
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,unity,github,git,eclipse&perline=6" />
   </a>
 </p>
 
