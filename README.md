@@ -17,7 +17,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <!-- Hàng 1: Languages & Frameworks (6 icon) -->
-    <img src="https://skillicons.dev/icons?i=python,java,cs,ts,pytorch,opencv&perline=6" /><br/>
+    <img src="https://skillicons.dev/icons?i=python,java,cs,ts,nextjs,nestjs&perline=6" /><br/>
     <!-- Hàng 2: IDEs, Engines & Dev Tools (6 icon) -->
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,unity,github,git,eclipse&perline=6" />
   </a>
